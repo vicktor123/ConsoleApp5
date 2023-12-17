@@ -32,7 +32,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            FInter i = new FInter();
+            var g = i.I(2, 4, 20);
+            Console.WriteLine(g);
+
+            FInter bb = new FISon();
+            var nn = bb.I(2, 4, 20);
+            Console.WriteLine(nn);
+
         }
     }
 }
