@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5_1", "ConsoleApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateValidators", "DateValidators\DateValidators.csproj", "{42512FD6-9B23-466E-8122-EB116527CAC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath_", "MyMath_\MyMath_.csproj", "{9BCD4375-A246-482C-8E7E-0954138C51ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{42512FD6-9B23-466E-8122-EB116527CAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42512FD6-9B23-466E-8122-EB116527CAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42512FD6-9B23-466E-8122-EB116527CAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCD4375-A246-482C-8E7E-0954138C51ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCD4375-A246-482C-8E7E-0954138C51ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCD4375-A246-482C-8E7E-0954138C51ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCD4375-A246-482C-8E7E-0954138C51ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
