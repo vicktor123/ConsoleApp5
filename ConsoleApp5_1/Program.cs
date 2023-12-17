@@ -15,13 +15,17 @@
             return s;
         }       
     }
+    
+   
+
     internal class Program
     {       
 
         static void Main(string[] args)
         {
-            var res = (new FInter()).I(0, 6, 10, fun);
-            Console.WriteLine(res);
+            var res=new FInter();
+            Console.WriteLine(res.I(0, 10, 20, fun));
+            
         }
         static double fun(double x)
         {
