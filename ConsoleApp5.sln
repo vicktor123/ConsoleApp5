@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "ConsoleApp5\ConsoleApp5.csproj", "{FD56F1A2-C6A9-452B-B05F-EB419F89E3E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp5", "ConsoleApp5\ConsoleApp5.csproj", "{FD56F1A2-C6A9-452B-B05F-EB419F89E3E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5_1", "ConsoleApp5_1\ConsoleApp5_1.csproj", "{EEF98F6C-93BA-49DA-B988-B98C347922A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp5_1", "ConsoleApp5_1\ConsoleApp5_1.csproj", "{EEF98F6C-93BA-49DA-B988-B98C347922A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateValidators", "DateValidators\DateValidators.csproj", "{42512FD6-9B23-466E-8122-EB116527CAC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateValidators", "DateValidators\DateValidators.csproj", "{42512FD6-9B23-466E-8122-EB116527CAC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath_", "MyMath_\MyMath_.csproj", "{9BCD4375-A246-482C-8E7E-0954138C51ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMath_", "MyMath_\MyMath_.csproj", "{9BCD4375-A246-482C-8E7E-0954138C51ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailFormatte", "EmailFormatte\EmailFormatte.csproj", "{DDD8022B-7224-4C70-BEF4-1EAB4718748C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailFormatte", "EmailFormatte\EmailFormatte.csproj", "{DDD8022B-7224-4C70-BEF4-1EAB4718748C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIComparable", "ConsoleIComparable\ConsoleIComparable.csproj", "{1D685FD0-21F8-4EDB-96B9-5613D7F4ECA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DDD8022B-7224-4C70-BEF4-1EAB4718748C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDD8022B-7224-4C70-BEF4-1EAB4718748C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDD8022B-7224-4C70-BEF4-1EAB4718748C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D685FD0-21F8-4EDB-96B9-5613D7F4ECA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D685FD0-21F8-4EDB-96B9-5613D7F4ECA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D685FD0-21F8-4EDB-96B9-5613D7F4ECA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D685FD0-21F8-4EDB-96B9-5613D7F4ECA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
