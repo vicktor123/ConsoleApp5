@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMath_", "MyMath_\MyMath_.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailFormatte", "EmailFormatte\EmailFormatte.csproj", "{DDD8022B-7224-4C70-BEF4-1EAB4718748C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIComparable", "ConsoleIComparable\ConsoleIComparable.csproj", "{1D685FD0-21F8-4EDB-96B9-5613D7F4ECA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleIComparable", "ConsoleIComparable\ConsoleIComparable.csproj", "{1D685FD0-21F8-4EDB-96B9-5613D7F4ECA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceShape", "InterfaceShape\InterfaceShape.csproj", "{EADC755F-2FB9-4BD4-9A77-7FCB4B24D093}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{1D685FD0-21F8-4EDB-96B9-5613D7F4ECA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D685FD0-21F8-4EDB-96B9-5613D7F4ECA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D685FD0-21F8-4EDB-96B9-5613D7F4ECA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADC755F-2FB9-4BD4-9A77-7FCB4B24D093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADC755F-2FB9-4BD4-9A77-7FCB4B24D093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADC755F-2FB9-4BD4-9A77-7FCB4B24D093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADC755F-2FB9-4BD4-9A77-7FCB4B24D093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
