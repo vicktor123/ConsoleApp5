@@ -16,11 +16,7 @@
     {
         static void Main(string[] args)
         {
-            object obj = new Bird();
-            bool isFlyable = obj is IFlyable; // true
-            obj = new Dog();
-            isFlyable = obj is IFlyable; // false
-            var  flyableObj = obj as IFlyable; //line 1
+           
         }
     }
 }
