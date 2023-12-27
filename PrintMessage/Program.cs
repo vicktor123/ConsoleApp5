@@ -14,11 +14,13 @@
         {
             Console.WriteLine(mes);
         }
+
+       // реализовать многоадрестность
         static void Main(string[] args)
         {
             Class6 cl = new Class6();
-            Del deleg = new Del(PrintMes);
-
+            Del deleg= new Del(PrintMes);          
+            
             cl.Method(3, deleg);
             Console.ReadKey();
         }
