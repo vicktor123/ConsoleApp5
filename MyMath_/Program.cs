@@ -2,7 +2,7 @@
 {
     public class MyMath
     {
-        public delegate double ToDo(double x);
+        
         public static double EvalTimeDToD(int count, ToDo fun, double x)
         {
             DateTime start, finish;
