@@ -3,7 +3,7 @@
     internal class FInter
     {
 
-        public double I(double a, double b, int n, Func<double,double> f)
+        public double I(double a, double b, int n, FuncType f)
         {
             double s = 0;
             double dx = (b - a) / n;
@@ -23,8 +23,7 @@
 
         static void Main(string[] args)
         {
-            var res=new FInter();
-            Console.WriteLine(res.I(0, 10, 20, fun));
+            
             
         }
         static double fun(double x)
